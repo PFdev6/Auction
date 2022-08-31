@@ -61,7 +61,7 @@ gem "daemons"
 gem "interactor", "~> 3.0"
 gem 'jquery-rails'
 gem 'ancestry'
-gem 'omniauth', '~> 1.6', '>= 1.6.1'
+gem 'omniauth', '~> 1.9'
 gem 'omniauth-facebook'
 gem 'omniauth-github'
 gem 'russian', '~> 0.6.0'
